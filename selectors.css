@@ -1,0 +1,35 @@
+     /* the css element selector */
+     * {
+        margin: 0; /* pre given styling will be reset*/
+        padding: 0;
+      }
+
+      /* The CSS Grouping Selector*/
+
+      h1,
+      h2,
+      .desc {
+        text-align: center;
+        margin: 2vh;
+        padding: 1%;
+      }
+
+      /* the css element selector */
+      p {
+        margin-bottom: 20px;
+        color: #0099cc;
+      }
+
+      /* the css id selector */
+      #jatin {
+        background: #535252;
+        color: aqua;
+      }
+
+      /* the css id selector */
+      .code {
+        font-family: monospace;
+        font-size: large;
+        font-weight: bolder;
+        background: #02eff7;
+      }
