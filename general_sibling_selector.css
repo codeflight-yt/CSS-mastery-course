@@ -1,0 +1,10 @@
+/* explaining general sibling selector in css */
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+  div~p{
+    color: #00cc99;
+    background-color: rgb(60, 56, 56);
+  }
