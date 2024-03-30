@@ -1,0 +1,7 @@
+body{
+    background: #1b2632;
+    color: aliceblue;
+}
+div+p{
+    color: #00cc99;
+}
