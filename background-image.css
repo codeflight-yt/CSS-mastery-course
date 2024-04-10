@@ -1,0 +1,8 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.AC2ob-VJ10bElVyHg7rz0wHaEo?pid=ImgDet&w=474&h=296&rs=1) ;
+    /*background-repeat: repeat;  (for repeat in x&y axis both)*/
+    /*background-repeat: repeat-x; /* for repeat background in the x-axis*/
+    /* for not repeating the background */
+    background-repeat: no-repeat;
+    background-position: right top;
+}
