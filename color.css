@@ -1,0 +1,13 @@
+
+  /* RGB Color code */
+  .code{
+    background: rgb(34, 167, 56);
+}
+
+/* HEX Color code */
+body{
+    background-color: #1b2632;
+}
+h1{
+    color: hsl(0, 0%, 100%);
+}
