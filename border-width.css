@@ -1,0 +1,13 @@
+/* here we added the property border width in the css file and in the first part we only added the border style property in css. */
+
+p.dotted {border-style: dotted; border-width: 5px;}
+p.dashed {border-style: dashed;border-width: 5px;}
+p.solid {border-style: solid;border-width: 5px;}
+p.double {border-style: double;border-width: 5px;}
+p.groove {border-style: groove;border-width: 5px;}
+p.ridge {border-style: ridge;border-width: 5px;}
+p.inset {border-style: inset;border-width: 5px;}
+p.outset {border-style: outset;border-width: 5px;}
+p.none {border-style: none;border-width: 5px;}
+p.hidden {border-style: hidden;border-width: 5px;}
+p.mix {border-style: dotted dashed solid double ;border-width: 5px;}
