@@ -1,0 +1,33 @@
+body{
+    background: #1b2632;
+    color: white;
+}
+h1{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #00cc99;
+}
+/* color added in rgb*/
+.p-one{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: rgb(0, 204, 153);
+}
+/* color added in hsl*/
+.p-two{
+    border-style: inset;
+    border-width: 2px;
+    border-color: hsl(165, 100%, 40%);
+}
+/* color added by name of the color*/
+.p-three{
+    border-style: outset;
+    border-width: 2px;
+    border-color: seagreen;
+}
+/* color is transparent */
+.p-four{
+    border-style: double;
+    border-width: 2px;
+    border-color: transparent;
+}

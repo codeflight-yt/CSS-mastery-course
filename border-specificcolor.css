@@ -1,0 +1,13 @@
+body{
+    background: #1b2632;
+    color: white;
+    font-size: larger;
+}
+.p-one{
+    border-style: groove;
+    border-width: 2px;
+    border-top-color: yellow;
+    border-right-color:red ;
+    border-left-color: #0c9;
+    border-bottom-color:rgb(255, 72, 0);
+}
