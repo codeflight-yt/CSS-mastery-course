@@ -1,0 +1,14 @@
+.code{
+
+    /* instead of this we can use this 
+    margin-top: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 150px; */
+
+
+
+    /* all these properties are cover in this one shorthand property of the css  */
+
+    margin: 200px 20px 150px ;
+}
